@@ -1,0 +1,1 @@
+export default() => "Ich bin eine API-Test-Funktion";
